@@ -1,2 +1,10 @@
-# RaspberryPi_Ubuntu_Server
- Ubunter Server 24 Setup for RaspberryPi using OracleBox VirtualBox
+# Virtual Ubuntu Server
+ Ubuntu Server 24 Setup for RaspberryPi using OracleBox VirtualBox
+
+Virtualization of Ubuntu Server (or Desktop)
+1.	Setup Oracle VirtualBox Settings
+2.	Configure ISO
+3.	Launch Ubuntu Server ISO
+4.	Configure Initial Setup: Language, Layout, Version of Ubuntu, Network Configuration, Storage Configuration, Admin Profile Setup, SSH Initialization, Server Snaps [OPTIONAL], 
+5.	Complete Installation
+6.	SSH to server to network/localhost
