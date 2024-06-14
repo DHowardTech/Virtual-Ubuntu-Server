@@ -1,7 +1,6 @@
 # Virtual Ubuntu Server
  Ubuntu Server 24 Setup for RaspberryPi using OracleBox VirtualBox
-
-Virtualization of Ubuntu Server (or Desktop)
+ 
 1.	Setup Oracle VirtualBox Settings
 2.	Configure ISO
 3.	Launch Ubuntu Server ISO
